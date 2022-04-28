@@ -1,0 +1,3 @@
+User-Agent: *
+Host: https://eco-trade.su/
+Sitemap: https://eco-trade.su/sitemap.xml
